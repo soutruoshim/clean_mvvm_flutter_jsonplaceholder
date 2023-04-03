@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application with clean mvvm .
 
 <img src = "https://raw.githubusercontent.com/soutruoshim/clean_mvvm_flutter_jsonplaceholder/main/mvvm.png">
 
